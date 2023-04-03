@@ -2,8 +2,44 @@
 
 body{
     font-family: 'Play', sans-serif;
+    background: #000;
 }
 
 p{
     font-size: 2em;
+    color: #fff;
+}
+
+.luzAzul{
+    text-shadow: 0 0 5px #6fbaf4,
+    0 0 10px #6fbaf4,
+    0 0 20px #6fbaf4,
+    0 0 30px #6fbaf4,
+    0 0 40px #6fbaf4,
+    0 0 50px #6fbaf4,
+    0 0 70px #6fbaf4,
+    0 0 80px #6fbaf4,
+    0 0 100px #6fbaf4;
+}
+.luzRosa{
+    text-shadow: 0 0 5px #e275ec,
+    0 0 10px #e275ec,
+    0 0 20px #e275ec,
+    0 0 30px #e275ec,
+    0 0 40px #e275ec,
+    0 0 50px #e275ec,
+    0 0 70px #e275ec,
+    0 0 80px #e275ec,
+    0 0 100px #e275ec;
+}
+.luzVerde{
+    text-shadow: 0 0 5px #75ecea,
+    0 0 10px #75ecea,
+    0 0 20px #75ecea,
+    0 0 30px #75ecea,
+    0 0 40px #75ecea,
+    0 0 50px #75ecea,
+    0 0 70px #75ecea,
+    0 0 80px #75ecea,
+    0 0 100px #75ecea;
 }
