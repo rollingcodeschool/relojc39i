@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+body{
+    font-family: 'Play', sans-serif;
+    background: #000;
+}
+
+p{
+    font-size: 2em;
+    color: #fff;
+}
+
+.luzAzul{
+    text-shadow: 0 0 5px #6fbaf4,
+    0 0 10px #6fbaf4,
+    0 0 20px #6fbaf4,
+    0 0 30px #6fbaf4,
+    0 0 40px #6fbaf4,
+    0 0 50px #6fbaf4,
+    0 0 70px #6fbaf4,
+    0 0 80px #6fbaf4,
+    0 0 100px #6fbaf4;
+}
+.luzRosa{
+    text-shadow: 0 0 5px #e275ec,
+    0 0 10px #e275ec,
+    0 0 20px #e275ec,
+    0 0 30px #e275ec,
+    0 0 40px #e275ec,
+    0 0 50px #e275ec,
+    0 0 70px #e275ec,
+    0 0 80px #e275ec,
+    0 0 100px #e275ec;
+}
+.luzVerde{
+    text-shadow: 0 0 5px #75ecea,
+    0 0 10px #75ecea,
+    0 0 20px #75ecea,
+    0 0 30px #75ecea,
+    0 0 40px #75ecea,
+    0 0 50px #75ecea,
+    0 0 70px #75ecea,
+    0 0 80px #75ecea,
+    0 0 100px #75ecea;
+}
+
+.btn-Azul{
+    background: #6fbaf4;
+}
+
+.btn-Rosa{
+    background: #e275ec;
+}
+.btn-Verde{
+    background: #75ecea;
+}
+
+/* .btn:hover{
+    color: #fff;
+    border: 1px solid #fff;
+} */
+
+.btn-Azul:hover{
+    color: #6fbaf4;
+    border: 1px solid #6fbaf4;
+}
+.btn-Rosa:hover{
+    color: #e275ec;
+    border: 1px solid #e275ec;
+}
+.btn-Verde:hover{
+    color: #75ecea;
+    border: 1px solid #75ecea;
+}
