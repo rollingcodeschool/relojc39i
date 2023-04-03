@@ -43,3 +43,14 @@ p{
     0 0 80px #75ecea,
     0 0 100px #75ecea;
 }
+
+.btn-Azul{
+    background: #6fbaf4;
+}
+
+.btn-Rosa{
+    background: #e275ec;
+}
+.btn-Verde{
+    background: #75ecea;
+}
