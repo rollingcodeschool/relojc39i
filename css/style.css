@@ -54,3 +54,21 @@ p{
 .btn-Verde{
     background: #75ecea;
 }
+
+/* .btn:hover{
+    color: #fff;
+    border: 1px solid #fff;
+} */
+
+.btn-Azul:hover{
+    color: #6fbaf4;
+    border: 1px solid #6fbaf4;
+}
+.btn-Rosa:hover{
+    color: #e275ec;
+    border: 1px solid #e275ec;
+}
+.btn-Verde:hover{
+    color: #75ecea;
+    border: 1px solid #75ecea;
+}
